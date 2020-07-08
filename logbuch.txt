@@ -1,0 +1,15 @@
+Raspberry 
+Preferencia/referencia  de compra https://www.reichelt.de/
+De momento p1 B+ 512Mb com dietpi sem duvida trocar para Raspberry 4b+ 4 GB
+CrossOver RJ45
+Pycharm projecto cartaoponto
+RTC de momento DS1302 de preferencia trocar para DS3231
+	Ligacao e codigo: https://www.hobbytronics.co.uk/raspberry-pi-real-time-clock
+	http://www.newsdownload.co.uk/pages/RTC_DS1302.html
+	Fazer o Rasp ir buscar a data e hora ao rtc (data e hora para o sistema)
+RIFD de momento Milfare RC522
+	Ligacao e codigo: https://tutorials-raspberrypi.de/raspberry-pi-rfid-rc522-tueroeffner-nfc/
+
+
+Modulos python
+	from datetime import datetime
